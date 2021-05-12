@@ -1,1 +1,0 @@
-# davidwichmann.github.io
