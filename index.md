@@ -2,7 +2,7 @@ Welcome to my website! There is not much on it.
 
 # PhD Thesis
 
-[Link to pdf](https://raw.githubusercontent.com/davidwichmann/davidwichmann.github.io/master/PhDThesis_DWichmann_compressed.pdf?token=AHZAJXQHED7R26X4Y6MBZPDAUVOE4)
+[Link to pdf](https://raw.githubusercontent.com/davidwichmann/davidwichmann.github.io/master/PhDThesis_DWichmann_compressed.pdf)
 
 
 # Publications
