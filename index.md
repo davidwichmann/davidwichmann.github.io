@@ -1,3 +1,9 @@
+---
+layout: page
+title: simple site
+tagline: David Wichmann
+---
+
 Welcome to my website! There is not much on it.
 
 # PhD Thesis
