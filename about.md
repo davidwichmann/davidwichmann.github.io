@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Expertise
+title: About
 ---
 
 Page is still empty ...
