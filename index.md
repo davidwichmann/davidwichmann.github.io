@@ -1,8 +1,3 @@
----
-layout: page
-title: simple site
----
-
 Welcome to my website! There is not much on it.
 
 # PhD Thesis
