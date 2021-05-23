@@ -3,12 +3,12 @@ layout: default
 title: Publications
 ---
 
-# PhD Thesis
+### PhD Thesis
 
 [Link to pdf](https://davidwichmann.github.io/PhDThesis_DWichmann_compressed.pdf)
 
 
-# Publications
+### Publications
 
 1. van Dam, A. et al. (2021): Correspondence analysis, spectral clustering and graph embedding: applications to ecology and economic complexity. Sci Rep 11, 8926. [Link](https://doi.org/10.1038/s41598-021-87971-9)
 2. Wichmann, D., Kehl, C., Dijkstra, H. A., and van Sebille, E. (2021): Ordering of trajectories reveals hierarchical finite-time coherent sets in Lagrangian particle data: detecting Agulhas rings in the South Atlantic Ocean, Nonlin. Processes Geophys.28, 43–59. [Link](https://doi.org/10.5194/npg-28-43-2021)
