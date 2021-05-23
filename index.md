@@ -1,5 +1,9 @@
+---
+layout: default
+title: About
+---
+
 Welcome to my website!
 
-
 ### About myself
-I am a theoretical physicist and data scientist.
+This is still empty...
