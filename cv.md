@@ -7,9 +7,9 @@ title: CV
 
 ## Data Scientist at [Gridradar](https://gridradar.net/en) (since 2021)
 
-## Data Scientist Life Cycle Assessment at [Blonk Consultants](https://blonkconsultants.nl/?lang=en) (2020 - 2021) <br><br>
+## Data Scientist Life Cycle Assessment at [Blonk Consultants](https://blonkconsultants.nl/?lang=en) (2020 - 2021) 
 
-
+<br><br>
 
 # Education
 
