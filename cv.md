@@ -3,6 +3,15 @@ layout: default
 title: CV
 ---
 
+## Work
+
+### Data Scientist Energy (2021 -- today)
+**[Gridradar](https://gridradar.net/en), Germany**
+
+### Data Scientist Life Cycle Assessment (2020 -- 2021)
+**Blonk Consultants, Netherlands**
+
+
 ## Education
 
 ### PhD in Physical Oceanography, Utrecht University (2017-2021)
