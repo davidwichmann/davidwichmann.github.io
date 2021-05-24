@@ -10,6 +10,7 @@ In my PhD at Utrecht University, I worked on the numerical modelling of transpor
 
 ### Master of Science in Physics (2015-2017)
 **University of Cologne Germany**
+
 Specialisation on theoretical and computational phsics. 
 
 ### Master of Public Administration in International Development, Tsinghua University (2013-2015)
