@@ -9,6 +9,9 @@ title: CV
 
 ## Data Scientist Life Cycle Assessment at [Blonk Consultants](https://blonkconsultants.nl/?lang=en) (2020 - 2021)
 
+
+
+
 # Education
 
 ## PhD in Physical Oceanography, Utrecht University, Netherlands (2017-2021)
