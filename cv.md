@@ -21,6 +21,8 @@ Specialisation on theoretical and computational phsics.
 
 ### MPA in International Development, Tsinghua University, China (2013-2015)
 
+### Environmental Manager certificate, Fernuniversität Hagen, Germany (remote, 2013-2015)
+
 ### B.Sc. Physics, Heidelberg University, Germany (2010-2013)
 
 ### B.Sc. Economics, Heidelberg University, Germany (2010-2013)
