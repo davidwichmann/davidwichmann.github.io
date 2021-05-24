@@ -26,3 +26,11 @@ Specialisation on theoretical and computational phsics.
 ### B.Sc. Physics, Heidelberg University, Germany (2010-2013)
 
 ### B.Sc. Economics, Heidelberg University, Germany (2010-2013)
+
+
+## Teaching
+
+- Gephysical fluid dynamics
+- Statistical physics
+- Quantum mechanics
+- Classical field theory
