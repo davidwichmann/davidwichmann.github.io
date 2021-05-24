@@ -5,8 +5,7 @@ title: CV
 
 ## Work
 
-### Data Scientist Energy (2021 -- today)
-**[Gridradar](https://gridradar.net/en)**
+### Data Scientist at [Gridradar](https://gridradar.net/en) (2021--today)
 
 ### Data Scientist Life Cycle Assessment (2020 -- 2021)
 **[Blonk Consultants](https://blonkconsultants.nl/?lang=en)**
