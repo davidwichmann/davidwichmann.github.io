@@ -10,6 +10,7 @@ title: CV
 ### Model and data specialist Life Cycle Assessment at [Blonk Consultants](https://blonkconsultants.nl/?lang=en) (2020 - 2021) 
 
 <br>
+
 ## Education
 
 ### PhD in Physical Oceanography, Utrecht University, Netherlands (2017-2021)
@@ -27,9 +28,10 @@ Specialisation on theoretical and computational phsics.
 ### B.Sc. Economics, Heidelberg University, Germany (2010-2013)
 
 <br>
+
 ## Teaching
 
-- Gephysical fluid dynamics
-- Statistical physics
-- Quantum mechanics
-- Classical field theory
+- Gephysical fluid dynamics (Utrecht University)
+- Statistical physics (Utrecht University)
+- Quantum mechanics (Utrecht University and University of Cologne)
+- Classical field theory (Utrecht University)
