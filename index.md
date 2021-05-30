@@ -5,5 +5,4 @@ title: Home
 
 Welcome to my website!
 
-### About myself
-This is still empty...
+This page is still empty...
