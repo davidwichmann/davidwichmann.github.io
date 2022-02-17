@@ -7,4 +7,4 @@ title: Publications
 
 ## Übungsblätter
 
-[#1](https://davidwichmann.github.io/PhDThesis_DWichmann_compressed.pdf)
+[Übungsblatt 1](https://davidwichmann.github.io/PhDThesis_DWichmann_compressed.pdf)
