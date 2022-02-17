@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publications
+title: Teaching
 ---
 
 # Wirtschaftsmathematik FH AlbSig, Sommersemester 2022
