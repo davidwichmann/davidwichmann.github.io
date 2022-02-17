@@ -5,6 +5,13 @@ title: Publications
 
 # Wirtschaftsmathematik FH AlbSig, Sommersemester 2022
 
+## Planung
+
 ## Übungsblätter
 
-[Übungsblatt 1](https://davidwichmann.github.io/PhDThesis_DWichmann_compressed.pdf)
+[Toter link]()
+
+
+## Formelsammlung
+
+Wird am Schluss hinzugefügt
