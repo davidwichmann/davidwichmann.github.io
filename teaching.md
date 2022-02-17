@@ -3,6 +3,8 @@ layout: default
 title: Publications
 ---
 
-### PhD Thesis
+# Wirtschaftsmathematik FH AlbSig, Sommersemester 2022
 
-[Link to pdf](https://davidwichmann.github.io/PhDThesis_DWichmann_compressed.pdf)
+## Übungsblätter
+
+[#1](https://davidwichmann.github.io/PhDThesis_DWichmann_compressed.pdf)
