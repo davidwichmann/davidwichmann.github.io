@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects
+title: CV
 ---
 
 This is still an empty page ...
